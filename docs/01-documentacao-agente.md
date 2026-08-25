@@ -5,12 +5,12 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-Após permissão do cliente, analisar automaticamente as entradas e saídas da conta para identificar oportunidades de economia e oferecer serviços personalizados ao perfil de cada cliente.
+Após permissão do cliente, o agente analisa automaticamente o fluxo bancário da conta para identificar oportunidades de economia e oferecer serviços personalizados ao perfil de cada cliente.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-O agente analisa os gastos, identifica oportunidades de economia e apresenta produtos adequados de forma educativa, ajudando o cliente a tomar decisões financeiras mais conscientes.
+O agente analisa os gastos, identifica oportunidades de economia e apresenta produtos que realizam distribuições adequadas de forma educativa, ajudando o cliente a tomar decisões financeiras mais conscientes.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
