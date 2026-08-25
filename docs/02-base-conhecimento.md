@@ -2,25 +2,13 @@
 
 ## Dados Utilizados
 
-Descreva se usou os arquivos da pasta `data`, por exemplo:
-
-| Arquivo | Formato | Utilização no Agente |
+| Arquivo | Formato | Função do eco |
 |---------|---------|---------------------|
-| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores |
-| `perfil_investidor.json` | JSON | Personalizar recomendações |
-| `produtos_financeiros.json` | JSON | Sugerir produtos adequados ao perfil |
-| `transacoes.csv` | CSV | Analisar padrão de gastos do cliente |
+| `historico_atendimento.csv` | CSV | Contextualizar interações anteriores dando continuidade ao atendimento com eficiência |
+| `perfil_investidor.json` | JSON | recomendações de serviços personalizadas referente a situação de cada cliente visando economia |
+| `produtos_financeiros.json` | JSON | apresentar os serviços disponíveis de economia forma educacional ao cliente |
+| `transacoes.csv` | CSV | Analisar padrão de gastos do cliente e mostrar uma alternativa econômica de renda |
 
-> [!TIP]
-> **Quer um dataset mais robusto?** Você pode utilizar datasets públicos do [Hugging Face](https://huggingface.co/datasets) relacionados a finanças, desde que sejam adequados ao contexto do desafio.
-
----
-
-## Adaptações nos Dados
-
-> Você modificou ou expandiu os dados mockados? Descreva aqui.
-
-[Sua descrição aqui]
 
 ---
 
